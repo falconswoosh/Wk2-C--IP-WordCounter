@@ -30,7 +30,7 @@ Wk2-C--IP-WordCounter
 | Behavior | Input | Output |
 |---|---|---|
 | Be able to input a word and receive back<br />confirmation how many times the word<br /> appears in what was inputted. |  `WORD`: car<br />`WORD`: cart | car occurs 1 time<br />cart occurs 1 time |
-| Additionally, be able to input a string of<br />words to also receive back confirmation of<br />how many times the word to be searched appears<br />in the search string. *ONLY* full word matches are counted. |`WORD`: car<br />`STRING`: As a caring responsible<br />person,I maintain my car as well<br />as respect other folks' property.<br />At parking lots, I ensure I open<br />my car door carefully so as not<br />to hit the other car with my car door. | car occurs 4 times|
+| In addition to the above word (AKA<br />the word to search for), be able to<br /> input a sentence (AKA search string).<br />Having both the search word and the<br />sentence to search, the site will respond<br />with how many times the word appears<br />in the sentence. *ONLY* full word matches are counted. |`WORD`: car<br />`STRING`: As a caring responsible<br />person,I maintain my car as well<br />as respect other folks' property.<br />At parking lots, I ensure I open<br />my car door carefully so as not<br />to hit the other car with my car door. | car occurs 4 times|
 
 
 ## Known Bugs
