@@ -12,10 +12,10 @@ namespace WordCounter.Tests
     [TestMethod]
     public void CountRepeats_IfStringIsReceived_True()
     {
-      Assert.AreEqual(var1, Method(input));
+      // Assert.AreEqual(var1, Method(input));
 
-      RepeatCounter newWord = new RepeatCounter();
-      string result = newWord.CountRepeats("car");
+      RepeatCounter testWord = new RepeatCounter();
+      string result = testWord.CountRepeats();
       Console.WriteLine("result: "+result);
       Assert.IsInstanceOfType(result, typeof(string));
     }

@@ -6,36 +6,44 @@ namespace WordCounter.Models
 {
   public class RepeatCounter
   {
-        private string _theWord;
-        private static List<RepeatCounter> _theSentenceList = new List<RepeatCounter> {};
+        private string _searchWord;
+        private List<string> _searchList;
 
-        public Contacts (string lastName, string firstName, string phoneNumber, string address)
+        public RepeatCounter (string searchWord, List<string> searchList)
         {
-          _theWord = TheWord;
-          _theSentenceList.Add(this);
+          _searchWord = searchWordWord;
+          _searchList = searchList;
         }
-        public string GetTheWord()
+        public string GetSearchWord()
         {
-          return _theWord;
+          return _searchWord;
         }
-        public static List<RepeatCounter> GetSentenceList()
+        public string GetSearchList()
         {
-          return _theSentenceList;
+          return _searchList;
+        }
+        public void SetSearchWord(string newSearchWord)
+        {
+          _searchWord = newSearchWord;
+        }
+        public void SetSearchList(string newSearchList)
+        {
+          _searchList = newSearchList;
+        }
+        public static List<RepeatCounter> GetTheList()
+        {
+          return _searchList;
         }
         public static void ClearAll()
         {
-          _theSentenceList.Clear();
+          _searchList.Clear();
         }
-        public static string CountRepeats(string theWord, string theSentence)
+        public static string CountRepeats(string matchWord)
+        // public static string CountRepeats(string _matchWord, string _inSentence)
         {
-          if source == target)
-          {
-            return false;
-          }
-          else
-          {
 
-          }
+          Console.WriteLine(matchWord);
+            return matchWord;
         }
   }
 }
