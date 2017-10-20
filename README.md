@@ -28,7 +28,7 @@ Wk2-C--IP-WordCounter
 
 ## Specifications    
 | Behavior | Input | Output | Comments |
-|---|---|---|
+|---|---|---|---|
 | Be able to input a (search) word. |  `Search WORD`: car | N/A | "car" as an input was chosen since it's short and its three letters may be contained in other words not an exact match to "car".
 | Additionally, have another input for a sentence to be searched and allow both the search Word and Sentence to be submitted via a submit button. |`SENTENCE to be Searched`: As a  caring car owner, I maintain my car as well as respect other folks' property. At parking lots, I ensure I open my car door carefully so as  not to hit the other car with my car door.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(button clicked) | N/A| The sample sentence input was used  due to two other words being used that  are not a full word match.|
 | Lastly, having clicked on the submit button the site responds via a separate page the results of having searched for a word in a sentence provided the site. The response will be how many times the word appears in the sentence. *`ONLY`* full word matches are counted. |`Search WORD`: car<br />`SENTENCE to be Searched`: As a caring car owner, I maintain mycar as well as respect other folks' property. At parking lots, I ensure I open my car door carefully so as  not to hit the other car with my car door. | `car` occurs 5 times<br />`Search WORD`: car<br />`SENTENCE Searched`: As a caring caring **car** owner, I maintain my**car** as well as respect other folks' property. At parking lots, I ensure I open my **car** door carefully so as  not to hit the other **car** with my **car** door. | N/A |
