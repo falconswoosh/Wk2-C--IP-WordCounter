@@ -36,7 +36,7 @@ Wk2-C--IP-WordCounter
 
 ## Known Bugs
 
-* None identified yet.
+* Neither UI, business code, or test code is functional yet.
 * If running in Windows 10 and within Git Bash, the "dotnet build" and "dotnet run" commands may sometimes fail indicating certain files are already running or unable to bind...
 * Solution is to run CMD as admin and do a netstat -ano | findstr 5000 and to taskkill the PID associated with port 5000. You need to reissue the netstat command until port 5000 no longer displays in the results prior to reissuing dotnet commands in Bash.
 
