@@ -10,9 +10,14 @@ namespace WordCounter.Tests
   public class WordCounterTest
   {
     [TestMethod]
-    public void Method_Description_ExpectedValue()
+    public void CountRepeats_IfStringIsReceived_True()
     {
-      Assert.AreEqual(var1, method(input));
+      Assert.AreEqual(var1, Method(input));
+
+      RepeatCounter newWord = new RepeatCounter();
+      string result = newWord.CountRepeats("car");
+      Console.WriteLine("result: "+result);
+      Assert.IsInstanceOfType(result, typeof(string));
     }
   }
 }

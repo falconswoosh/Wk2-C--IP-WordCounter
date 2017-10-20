@@ -26,5 +26,16 @@ namespace WordCounter.Models
         {
           _theSentenceList.Clear();
         }
+        public static string CountRepeats(string theWord, string theSentence)
+        {
+          if source == target)
+          {
+            return false;
+          }
+          else
+          {
+
+          }
+        }
   }
 }
