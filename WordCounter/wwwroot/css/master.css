@@ -1,3 +1,12 @@
 body {
   font-family: sans-serif;
 }
+#inputForm {
+  align-content: center;
+}
+#sentence
+   {
+    font-size:18pt;
+    height:420px;
+    width:200px;
+   }
