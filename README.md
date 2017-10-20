@@ -29,8 +29,9 @@ Wk2-C--IP-WordCounter
 ## Specifications    
 | Behavior | Input | Output |
 |---|---|---|
-| Be able to input a word and receive back<br />confirmation how many times the word<br /> appears in what was inputted. |  `WORD`: car<br />`WORD`: cart | car occurs 1 time<br />cart occurs 1 time |
-| In addition to the above word (AKA<br />the word to search for), be able to<br /> input a sentence (AKA search string).<br />Having both the search word and the<br />sentence to search, the site will respond<br />with how many times the word appears<br />in the sentence. *ONLY* full word matches are counted. |`Search WORD`: car<br />`SENTENCE to Search`: As a caring<br /> responsible person,I maintain my<br />car as well as respect other folks'<br /> property. At parking lots, I ensure<br /> I open my car door carefully so as <br /> not to hit the other car with my car door. | car occurs 4 times|
+| Be able to input a (search) word. |  `Search WORD`: car | N/A |
+| Additionally, have another input for a <br />sentence to be searched and allow <br />both the search Word and Sentence<br /> to be submitted via a submit button. |`SENTENCE to be Searched`: As a caring<br /> responsible person, I maintain my<br />car as well as respect other folks'<br /> property. At parking lots, I ensure<br /> I open my car door carefully so as <br /> not to hit the other car with my car door. | N/A|
+| Lastly, having clicked on the submit button,<br /> the site responds via a separate<br /> page the results of having searched for<br /> a word in a sentence provided the site.<br /> The response will be how many times the word<br /> appears in the sentence. *ONLY* full word matches <br />are counted. |(button clicked) | `car` occurs 4 times<br />`Search WORD`: car<br />`SENTENCE Searched`: As a caring<br /> responsible person,I maintain my<br />**car** as well as respect other folks'<br /> property. At parking lots, I ensure<br /> I open my **car** door carefully so as <br /> not to hit the other **car** with my **car** door. |
 
 
 ## Known Bugs
