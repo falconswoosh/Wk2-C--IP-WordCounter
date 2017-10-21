@@ -51,14 +51,14 @@ Alan Falcon email: [falconswoosh@gmail.com](falconswoosh@gmail.com)
 | .NET Core 1.1 SDK (Software Development Kit) |  https://download.microsoft.com/download/F/4/F/F4FCB6EC-5F05-4DF8-822C-FF013DF1B17F/dotnet-dev-win-x64.1.1.4.exe | https://download.microsoft.com/download/F/4/F/F4FCB6EC-5F05-4DF8-822C-FF013DF1B17F/dotnet-dev-osx-x64.1.1.4.pkg |
 | .NET Runtime |https://download.microsoft.com/download/6/F/B/6FB4F9D2-699B-4A40-A674-B7FF41E0E4D2/dotnet-win-x64.1.1.4.exe | https://download.microsoft.com/download/6/F/B/6FB4F9D2-699B-4A40-A674-B7FF41E0E4D2/dotnet-osx-x64.1.1.4.pkg |
 | Atom |http://flight-manual.atom.io/getting-started/sections/why-atom/ | https://github.com/atom/atom/releases/download/v1.21.1/atom-mac.zip |
-| CSS <td colspan=2>https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjswubPlLnWAhVGVRQKHaRLBkgQFggmMAA&url=https%3A%2F%2Fgetbootstrap.com%2Fcss%2F&usg=AFQjCNFpcAPIPLCu0F7w2NDTOafHdV8Pkw
+| CSS <td colspan=2>https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjswubPlLnWAhVGVRQKHaRLBkgQFggmMAA&url=https%3A%2F%2Fgetbootstrap.com%2Fcss%2F&usg=AFQjCNFpcAPIPLCu0F7w2NDTOafHdV8Pkw |
 | CSS: Materialize <td colspan=2> http://materializecss.com/forms.html
 | Git |https://git-for-windows.github.io/ | [Paste the following into Bash]:<br />$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"<br />$ echo 'export PATH=/usr/local/bin:$PATH' >> ~/.bash_profile<br />$ brew install git |
-| GitHub:<td colspan=2> https://github.com/
-| HTML:<td colspan=2> http://htmlreference.io
-| Javascript:<td colspan=2> https://www.javascript.com/
-| Javascript Jquery<td colspan=2> https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiBj_WJlbnWAhWBLhQKHfHUAQEQFggmMAA&url=https%3A%2F%2Fjquery.com%2F&usg=AFQjCNFnz7C6MAXGLm7pVcOD_LrOjJUUiA
-| Markdown<td colspan=2> https://en.wikipedia.org/wiki/Markdown
+| GitHub:<td colspan=2> https://github.com/ |
+| HTML:<td colspan=2> http://htmlreference.io |
+| Javascript:<td colspan=2> https://www.javascript.com/ |
+| Javascript Jquery<td colspan=2> https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiBj_WJlbnWAhWBLhQKHfHUAQEQFggmMAA&url=https%3A%2F%2Fjquery.com%2F&usg=AFQjCNFnz7C6MAXGLm7pVcOD_LrOjJUUiA |
+| Markdown<td colspan=2> https://en.wikipedia.org/wiki/Markdown |
 | Mono |http://www.mono-project.com/download/#download-win | http://www.mono-project.com/download/#download-mac |
 
 
