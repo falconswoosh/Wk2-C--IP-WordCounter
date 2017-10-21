@@ -59,7 +59,7 @@ Alan Falcon email: [falconswoosh@gmail.com](falconswoosh@gmail.com)
 | Javascript:<td colspan=2> https://www.javascript.com/
 | Javascript Jquery<td colspan=2> https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiBj_WJlbnWAhWBLhQKHfHUAQEQFggmMAA&url=https%3A%2F%2Fjquery.com%2F&usg=AFQjCNFnz7C6MAXGLm7pVcOD_LrOjJUUiA
 | Markdown<td colspan=2> https://en.wikipedia.org/wiki/Markdown
-| Mono |http://www.mono-project.com/download/#download-win | http://www.mono-project.com/download/#download-mac|
+| Mono |http://www.mono-project.com/download/#download-win | http://www.mono-project.com/download/#download-mac |
 
 
 ### License
